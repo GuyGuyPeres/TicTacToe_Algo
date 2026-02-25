@@ -1,4 +1,4 @@
-# [Final Project - TicTacToe Algorithm]
+# Final Project - TicTacToe Algorithm
 
 ## 🚀 Overview
 This project is the culmination of a three-year intensive study (Grades 10-12) in the **Computer Science & Software Engineering** major. It represents a full software development lifecycle, evolving from foundational programming concepts to a complex system integrated with an advanced algorithm.

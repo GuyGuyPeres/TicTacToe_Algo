@@ -29,4 +29,4 @@ The project was designed, architected, and implemented as part of my final matri
 ---
 
 
-Created by [Guy Peres], 2020 - 2022.
+Created by Guy Peres, 2020 - 2022.

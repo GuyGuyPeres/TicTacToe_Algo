@@ -4,7 +4,7 @@
 
 # ❌ TicTacToe Project ⭕
 
-### A full-featured Tic-Tac-Toe platform - AI opponent, local multiplayer, and real-time online play, built across three years as a final matriculation project
+### A full-featured Tic-Tac-Toe platform - AI opponent (Complex Algorithm), local multiplayer, and real-time online play, built across three years as a final matriculation project
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-Backend-239120?style=for-the-badge&logo=csharp&logoColor=white)

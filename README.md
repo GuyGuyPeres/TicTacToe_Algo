@@ -151,27 +151,18 @@ Select **Play Online**.
 
 ## 🏗 Architecture
 
-### Folder Structure
+### Repository Contents
+
+> ⚠️ Source code is not included in this repository. The files below are the documentation and user manuals for the project.
 
 ```text
 📁 TicTacToeProject/
-├── 📁 Models/                       # C# game models and core logic
-│   ↳ 📄 Board.cs                    # Board state representation and win-detection
-│   ↳ 📄 AIEngine.cs                 # AI move-selection algorithm
-│   ↳ 📄 GameSession.cs              # Online session state, synced with Firebase
-│   ↳ 📄 Player.cs                   # Player entity (symbol, type: human/AI)
-├── 📁 Views/                        # Razor .cshtml templates rendered by ASP.NET MVC
-│   ↳ 📄 Index.cshtml                # Main menu — mode selection
-│   ↳ 📄 VsPC.cshtml                 # User vs Computer view
-│   ↳ 📄 VsUser.cshtml               # Local multiplayer view
-│   ↳ 📄 VsOnline.cshtml             # Online multiplayer view
-├── 📁 Scripts/                      # Client-side JavaScript
-│   ↳ 📄 game.js                     # Board rendering, click handling, UI state updates
-│   ↳ 📄 firebase.js                 # Firebase SDK integration — read/write game sessions
-│   ↳ 📄 ai.js                       # Client-side AI logic helpers
-├── 📁 Content/                      # CSS stylesheets and static assets
-├── 📄 TicTacToe.sln                 # Visual Studio solution file
-└── 📄 Web.config                    # ASP.NET application configuration
+├── 📄 README.md                              # Project overview (this file)
+├── 📄 Full Documention (NO SOURCE CODE).pdf  # Full technical documentation (Hebrew)
+├── 📄 User Manual - USER VS PC.pdf           # Step-by-step guide for vs Computer mode (Hebrew)
+├── 📄 User Manual - USER VS USER.pdf         # Step-by-step guide for local multiplayer (Hebrew)
+├── 📄 User Manual - USER VS USER ONLINE.pdf  # Step-by-step guide for online multiplayer (Hebrew)
+└── 📄 User Manual XO ASP.NET.pdf            # Step-by-step guide for the ASP.NET version (Hebrew)
 ```
 
 ### Request & Game Flow
